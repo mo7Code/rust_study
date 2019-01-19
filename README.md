@@ -14,4 +14,7 @@
 ```bash shell
 #管理员打开
 sudo curl https://sh.rustup.rs -sSf | sh
+#卸载
+rustup self uninstall
+sudo apt remove rustc
 ```
