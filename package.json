@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "remove": "rm -rf *exe && rm -rf *pdb"
+  }
+}
