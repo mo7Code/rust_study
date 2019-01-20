@@ -29,7 +29,6 @@ fn variate(){
 }
 //变量作用域 和js一毛一样~
 fn variate_scope(){
-    /*
     //变量局部作用域,闭包
     let x: i32 = 17;
     {
@@ -37,9 +36,7 @@ fn variate_scope(){
         println!("The value of x is {} and value of y is {}", x, y);
     }
     // println!("The value of x is {} and value of y is {}", x, y); // y 访问不到会报错
-    */
 
-    /*
     //覆盖 + 闭包
     let x: i32 = 8;
     {
@@ -50,7 +47,6 @@ fn variate_scope(){
     println!("{}", x); // Prints "8".
     let x =  42;
     println!("{}", x); // Prints "42".
-    */
 
     let mut x: i32 = 1;
     println!("111  The value is: {}", x);
