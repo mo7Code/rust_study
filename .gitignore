@@ -24,7 +24,5 @@ yarn-error.log*
 .wepycache
 
 #rust
-*.exe
-*.pdb
-target
+target/
 Cargo.lock
