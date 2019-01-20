@@ -41,4 +41,8 @@ fn main () {
 
         println!("x is {}", x);
 
+    //函数
+    fn foo(x: i32) -> i32 { x }
+    let x: fn(i32) -> i32 = foo;
+
 }
