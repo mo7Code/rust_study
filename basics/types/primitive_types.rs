@@ -1,3 +1,26 @@
+/// Adds one to the number given.
+///
+/// # Examples
+///
+/// ```
+/// let five = 5;
+///
+/// assert_eq!(6, add_one(5));
+/// # fn add_one(x: i32) -> i32 {
+/// #     x + 1
+/// # }
+/// ```
+/// 文档注释,碉堡了
+///
+///
+
+
+//! # The Rust Standard Library
+//!
+//! The Rust Standard Library provides the essential runtime
+//! functionality for building portable Rust software.
+//! 它经常用在 crate 根文件（lib.rs）或者模块根文件（mod.rs）：
+//!
 fn main () {
     //布尔型
     // let x: bool = true;
