@@ -26,3 +26,5 @@ yarn-error.log*
 #rust
 target/
 Cargo.lock
+*.exe
+*.pdb
