@@ -1,1 +1,2 @@
-rustc vector.rs && ./vector.exe
+rustc vector.rs &&
+./vector.exe
