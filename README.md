@@ -7,6 +7,9 @@
 
 ## 环境安装 (win10)
 
+优先安装 c++ 相关 "C++ tools":
+<https://www.visualstudio.com/downloads/>
+安装 rust:
 <https://www.rust-lang.org/tools/install>
 
 ## 环境安装 (win10 WSL)
